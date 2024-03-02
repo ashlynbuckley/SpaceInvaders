@@ -8,7 +8,7 @@ import java.awt.image.BufferStrategy;
 
 
 public class GameOver extends JPanel {
-//	//this class allows me to create a JPanel for the game over mode
+//this class allows me to create a JPanel for the game over mode
     
 	public void paint(Graphics g) {
 		super.paintComponent(g);
